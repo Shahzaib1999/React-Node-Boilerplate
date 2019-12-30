@@ -1,0 +1,19 @@
+{
+  "name": "react-node-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code for full stack application using Reactjs & Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahzaib1999/React-Node-Boilerplate.git"
+  },
+  "author": "M.Shahzaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahzaib1999/React-Node-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/Shahzaib1999/React-Node-Boilerplate#readme"
+}
